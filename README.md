@@ -8,7 +8,8 @@ Every player has some amount of money ($0 at the start of the game)
 Every player has a set of prizes (none at the start of the game)
 
 ## Scenario
-The goal is to guess a phrase within a category. For example:
+The goal is to guess a phrase within a category. <br>
+For example:
 `Category`: Artist & Song
 
 `Phrase`: Whitney Houston’s I Will Always Love You
@@ -29,7 +30,7 @@ Note that case (capitalization) does not matter
 
 **The player can guess any letter that hasn’t been guessed and gets that cash amount for every time that letter appears in the phrase If there is a prize,
 the user also gets that prize (in addition to any prizes they already had). If the letter does appear in the phrase, the user keeps their turn. 
-Otherwise, it’s the next player’s turn **
+Otherwise, it’s the next player’s turn**
 
 `Example`: The user lands on $500 and guesses ‘W’
 There are three W’s in the phrase, so the player wins $1500
