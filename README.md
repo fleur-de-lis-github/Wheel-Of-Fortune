@@ -22,10 +22,10 @@ Phrase: _______ _______'_ _ ____ ______ ____ ___
 Note that case (capitalization) does not matter
 
 ## Rules
-<mark> During their turn, every player spins the wheel to determine a prize amount and:
+<span style="background-color: #FFFF00"> During their turn, every player spins the wheel to determine a prize amount and:
 If the wheel lands on a cash square, players may do one of three actions:
 Guess any letter that hasn’t been guessed by typing a letter (a-z)
-Vowels (a, e, i, o, u) cost $250 to guess and can’t be guessed if the player doesn’t have enough money. All other letters are “free” to guess </mark>
+Vowels (a, e, i, o, u) cost $250 to guess and can’t be guessed if the player doesn’t have enough money. All other letters are “free” to guess </span>
 
 **The player can guess any letter that hasn’t been guessed and gets that cash amount for every time that letter appears in the phrase**
 
