@@ -1,6 +1,7 @@
 # Wheel-Of-Fortune
 
-This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. Here are the rules of our game:
+This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letsplaysega.com%2Fplay-wheel-of-fortune-online%2F&psig=AOvVaw1-yjpNk55JhDEOX7tRqvtI&ust=1636518447178000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjPp7u4ivQCFQAAAAAdAAAAABAD
 
 There are `num_human human players` and `num_computer computer players`.
 Every player has some amount of money ($0 at the start of the game)
