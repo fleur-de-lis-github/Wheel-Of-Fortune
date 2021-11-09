@@ -1,7 +1,7 @@
 # Wheel-Of-Fortune
 
 This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. 
-![image](https://user-images.githubusercontent.com/73738414/140862258-8c236076-09a1-4201-a886-5fc706563b5b.png)
+<p align="center"><img width="460" height="300" src="https://user-images.githubusercontent.com/73738414/140862258-8c236076-09a1-4201-a886-5fc706563b5b.png"></p>
 
 There are `num_human human players` and `num_computer computer players`.
 Every player has some amount of money ($0 at the start of the game)
