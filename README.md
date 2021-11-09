@@ -8,8 +8,7 @@ Every player has some amount of money ($0 at the start of the game)
 Every player has a set of prizes (none at the start of the game)
 
 ## Scenario
-The goal is to guess a phrase within a category. <br>
-For example:
+The goal is to guess a phrase within a category. For example: <br>
 `Category`: Artist & Song
 
 `Phrase`: Whitney Houston’s I Will Always Love You
@@ -36,14 +35,12 @@ Otherwise, it’s the next player’s turn**
 There are three W’s in the phrase, so the player wins $1500
 
 Guess the complete phrase by typing a phrase (anything over one character that isn’t ‘pass’)
-If they are correct, they win the game
+-If they are correct, they win the game
 
-If they are incorrect, it is the next player’s turn
+-If they are incorrect, it is the next player’s turn Pass their turn by entering 'pass'
 
-Pass their turn by entering 'pass'
+-If the wheel lands on ` “lose a turn”`, the player loses their turn and the game moves on to the next player
 
-If the wheel lands on ` “lose a turn”`, the player loses their turn and the game moves on to the next player
-
-If the wheel lands on `“bankrupt”`, the player loses their turn and loses their money but they keep all of the prizes they have won so far.
+-If the wheel lands on `“bankrupt”`, the player loses their turn and loses their money but they keep all of the prizes they have won so far.
 
 The game continues until the entire phrase is revealed (or one player guesses the complete phrase)
